@@ -2,6 +2,7 @@
 Project Name: Bank Market Data ETL
 
 Description:
+
 Bank Market Data ETL is a Python project designed to automate the process of extracting, transforming, and loading (ETL) financial market data from various sources. The project focuses on extracting data from JSON and CSV files, transforming the data by converting market capitalization to GBP (£), and loading the transformed data into a CSV file for further analysis.
 
 Features:
